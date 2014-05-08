@@ -15,5 +15,4 @@ The **os.vdi** file should be used as the disk image of a virtualbox virtual mac
 ```bash
 $ cd hello_world_bootloader/
 $ make
-````
-
+```
