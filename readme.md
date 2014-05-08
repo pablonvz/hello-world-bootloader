@@ -9,7 +9,7 @@ Boot and print 'Hello World!' on the screen.
 * VirtualBox 4.1.18
 
 # Instructions
-The following commands will generate a file called **os.vdi** *- it is a virtualbox disk image -*.
+The following commands will generate a file called **os.vdi** *- which is a virtualbox disk image -*.
 
 The **os.vdi** file should be used as the disk image of a virtualbox virtual machine.
 
